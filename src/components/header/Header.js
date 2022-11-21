@@ -1,5 +1,5 @@
 
-import './headers.css'
+import './header.css'
 
 const Header = props => {
 
